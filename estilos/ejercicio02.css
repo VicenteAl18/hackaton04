@@ -96,7 +96,7 @@ body{
     font-size: 15px;
     background-color: #cc3843;
     color: white;
-    width: 200px;
-    height: 50px;
+
     border-radius: 50px;
+    padding: 24px 48px;
 }
