@@ -4,12 +4,6 @@
 body{
     margin: 0;   
     background-color: rgb(225, 220, 220);
-    position: relative;
-}
-.principal{
-    position: absolute;
-    left: 50%;
-    top: 50%;
 }
 .cuadrado-rojo{
     width: 480px;
