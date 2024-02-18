@@ -49,8 +49,7 @@ img{
     background-color: rgb(133, 206, 255);
     color: blue;
     margin: auto;
-    display: grid;
-    place-items: center;
+    display:block;
 }
 h1{
     font-size: 25px;
